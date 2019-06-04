@@ -1,5 +1,7 @@
 ## Laravel 5.8 + Vue.js - Basic CRUD Operation Demo
 
+![Laravel + Vue.js](http://insysinfotech.com/git/laravel-vue-basic-crud/laravue.png)
+
 Simple project module which shows how Vue.js  works with Laravel.
 
 Simple CRUD operation which shows how to manage Projects - listing/add/edit/update/delete with client side validation.
